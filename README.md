@@ -1,8 +1,8 @@
-# ICS-Sniper ENIP-C Software Testbed
+# ICS-Sniper ENIP-U Software Testbed
 
-**SWaT software testbed (Connected ENIP version)**
+**SWaT software testbed (Unconnected ENIP version)**
 
-This repository contains the SWaT software testbed used by ICS-Sniper in Connected EtherNet/IP (ENIP) mode. Six simulated PLCs run on one Linux host and communicate with the SCADA application through an OpenVPN router.
+This repository contains the SWaT software testbed used by ICS-Sniper in Unconnected EtherNet/IP (ENIP) mode. Six simulated PLCs run on one Linux host and communicate with the SCADA application through an OpenVPN router.
 
 Replace every value in angle brackets, such as `<router-public-ip>`, with a value from your environment. Generate new VPN credentials for every deployment.
 
