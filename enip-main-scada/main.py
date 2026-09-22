@@ -12,6 +12,9 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
 # A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 #
+# Modified by the ICS-Sniper contributors on 2026-09-22.
+# Modifications add SWaT-specific tag snapshot collection and CSV logging.
+#
 
 from __future__ import absolute_import, print_function, division
 try:
